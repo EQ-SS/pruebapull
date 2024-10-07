@@ -3,3 +3,7 @@ prueba
 
 prueba-push-script-desde-pc
 17
+
+
+
+https://github.com/EQ-SS/alfasigma.git
